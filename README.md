@@ -10,5 +10,5 @@ Run Application:
 
 # Result
 
-As a result, you will receive a code in the GrafViz language.
+As a result, you will receive a code in the GraphViz language.
 To visualize the dependency, paste the resulting code at https://dreampuf.github.io/GraphvizOnline/, after deleting all content from the code field. 
